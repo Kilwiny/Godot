@@ -1,2 +1,2 @@
-# Godot---treino
+# Godot
 Treinando no Godot
